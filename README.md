@@ -8,7 +8,8 @@ Features
 - Clear structure for easy understanding
 
    Project Structure
-TextbookQuality/
+
+TextbookQuality
 ├── Dataset/ # Input CSV files
 │ ├── customer_reviews.csv
 │ └── testData.csv
