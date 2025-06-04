@@ -10,7 +10,7 @@ Features
    Project Structure
 
 TextbookQuality
-├── Dataset/ # Input CSV files
+├── Dataset # Input CSV files
 │ ├── customer_reviews.csv
 │ └── testData.csv
 ├── Main.py # Main script
